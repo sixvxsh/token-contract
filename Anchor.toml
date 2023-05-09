@@ -8,7 +8,7 @@ token_contract = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "devnet"
 wallet = "/home/sixvxsh/.config/solana/id.json"
 
 [scripts]
